@@ -1,0 +1,8 @@
+C:\Users\jayanthvj\Documents\Visual Studio 2015\Projects\CollectionOops\Collections\obj\Debug\Collections.csprojResolveAssemblyReference.cache
+C:\Users\jayanthvj\Documents\Visual Studio 2015\Projects\CollectionOops\Collections\bin\Debug\Collections.exe.config
+C:\Users\jayanthvj\Documents\Visual Studio 2015\Projects\CollectionOops\Collections\bin\Debug\Collections.exe
+C:\Users\jayanthvj\Documents\Visual Studio 2015\Projects\CollectionOops\Collections\bin\Debug\Collections.pdb
+C:\Users\jayanthvj\Documents\Visual Studio 2015\Projects\CollectionOops\Collections\bin\Debug\CollectionLibrary.dll
+C:\Users\jayanthvj\Documents\Visual Studio 2015\Projects\CollectionOops\Collections\bin\Debug\CollectionLibrary.pdb
+C:\Users\jayanthvj\Documents\Visual Studio 2015\Projects\CollectionOops\Collections\obj\Debug\Collections.exe
+C:\Users\jayanthvj\Documents\Visual Studio 2015\Projects\CollectionOops\Collections\obj\Debug\Collections.pdb
